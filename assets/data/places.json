@@ -1,0 +1,23 @@
+[
+  {
+    "place": "Taj Mahal",
+    "country": "India",
+    "imageUrl": "https://www.planetware.com/wpimages/2019/11/india-best-places-to-visit-agra.jpg",
+    "about": "The Taj Mahal, is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.",
+    "cost": 1800
+  },
+  {
+    "place": "Mount Fuji",
+    "country": "Japan",
+    "imageUrl": "https://www.planetware.com/wpimages/2019/10/asia-best-places-to-visit-mount-fuji-japan.jpg",
+    "about": "Japan’s Mt. Fuji is an active volcano about 100 kilometers southwest of Tokyo. Commonly called “Fuji-san,” it’s the country’s tallest peak, at 3,776 meters. A pilgrimage site for centuries, it’s considered one of Japan’s 3 sacred mountains, and summit hikes remain a popular activity. Its iconic profile is the subject of numerous works of art, notably Edo Period prints by Hokusai and Hiroshige.",
+    "cost": 2100
+  },
+  {
+    "place": "Eiffel Tower",
+    "country": "Paris",
+    "imageUrl": "https://cdn.ceoworld.biz/wp-content/uploads/2020/06/Paris.jpg",
+    "about": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+    "cost": 1200
+  }
+]
